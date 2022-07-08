@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.omnic.ai/categories/</loc>
+<lastmod>2022-07-08T12:12:13-04:00</lastmod>
+</url>
+<url>
+<loc>https://blog.omnic.ai/tags/</loc>
+<lastmod>2022-07-08T12:12:13-04:00</lastmod>
+</url>
+<url>
+<loc>https://blog.omnic.ai/archives/</loc>
+<lastmod>2022-07-08T12:12:13-04:00</lastmod>
+</url>
+<url>
+<loc>https://blog.omnic.ai/about/</loc>
+<lastmod>2022-07-08T12:12:13-04:00</lastmod>
+</url>
+<url>
+<loc>https://blog.omnic.ai/</loc>
+</url>
+</urlset>
