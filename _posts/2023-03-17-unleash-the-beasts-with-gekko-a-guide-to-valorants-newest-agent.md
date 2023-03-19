@@ -1,7 +1,7 @@
 ---
 title: "Unleash the Beasts with Gekko: A Guide to Valorant's Newest Agent!"
 date: "2023-03-17 11:10:00 -0500"
-categories: ["Valorant","Esports","Forge","Review","Agent"]
+categories: ["Esports","Valorant"]
 tags: ["Valorant","VCT","Initiators","esports","Agents","Gekko","Valorant agents","Valorant gameplay","Gekko abilities","Gekko tips and tricks","Valorant meta","New agents in Valorant","Valorant updates","Video game strategy","Online gaming","Esports"]
 author:
 ---

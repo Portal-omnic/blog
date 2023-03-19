@@ -1,7 +1,7 @@
 ---
 title: "Fnatic Emerges Victorious in Record-Breaking VCT LOCK//IN São Paulo"
 date: "2023-03-10 11:10:00 -0500"
-categories: ["Valorant","esports","VCT LOCK//IN São Paul","Fnatic","LOUD","Competitive gaming","Esports tournaments","2023 Valorant Champions Tour","Esports streaming","Timofey 'Chronicle' Khromov","Esports viewership"]
+categories: ["Esports","Valorant"]
 tags: ["Valorant","VCTLOCKIN","Fnatic","LOUD,esports","competitive gaming","VCT 2023","esports tournament","esports streaming","Chronicle","viewership numbers","esports news","gaming news","esports results","esports events"]
 author:
 ---
