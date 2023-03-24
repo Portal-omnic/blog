@@ -1,7 +1,7 @@
 ---
 title: "The Path to the Top: Valorant's Acension Process"
 date: "2023-01-09 12:17:00 -0500"
-categories: ["Forge","Review","Valorant","Process"]
+categories: ["Valorant","News"]
 tags: ["Valorant","VCT","Acension","esports","Challengers","NA","Tournament"]
 author:
 ---

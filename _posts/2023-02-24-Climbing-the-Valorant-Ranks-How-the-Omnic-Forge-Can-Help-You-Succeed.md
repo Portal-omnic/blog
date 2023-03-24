@@ -1,7 +1,7 @@
 ---
 title: "Climbing the Valorant Ranks: How the Omnic Forge Can Help You Succeed"
 date: "2023-02-24 11:10:00 -0500"
-categories: ["Forge","Review","Valorant","Features"]
+categories: ["Valorant","Forge"]
 tags: ["Valorant","Player Card","Insights","Analysis","Plays Like","1v1 Compare","esports","improvement","amateur"]
 author: 1
 ---
