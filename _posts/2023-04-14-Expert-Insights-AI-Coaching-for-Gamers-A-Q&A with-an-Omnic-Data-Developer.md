@@ -8,7 +8,7 @@ author:
 
 ![Developer](/2023-04-14-Expert-Insights-AI-Coaching-for-Gamers-A-Q&A with-an-Omnic-Data-Developer.png)
 
-Welcome to our exclusive Q&A blog featuring insights from Nat Youngren a developer at [Omnic Data](https://www.omnic.ai/), who is part of the team behind innovative AI coaching platform [Omnic Forge](https://forge.omnic.ai/) for [Fortnite](https://www.fortnite.com/) and [Valorant](https://playvalorant.com/en-us/). In this discussion, we explore the challenges, successes, and future of AI-driven coaching in gaming, as well as some light-hearted fun questions. Join us as we delve into the developer's perspective on revolutionizing player growth and strategy through cutting-edge AI technology.
+Welcome to our exclusive Q&A blog featuring insights from Nat Youngren a developer at [Omnic Data](https://www.omnic.ai/), who is part of the team behind the innovative AI coaching platform [Omnic Forge](https://forge.omnic.ai/) for [Fortnite](https://www.fortnite.com/) and [Valorant](https://playvalorant.com/en-us/). In this discussion, we explore the challenges, successes, and future of AI-driven coaching in gaming, as well as some light-hearted fun questions. Join us as we delve into the developer's perspective on revolutionizing player growth and strategy through cutting-edge AI technology.
 
 
 **How do you adapt computer vision technology to recognize and analyze the unique gameplay elements of Fortnite and Valorant?** 
