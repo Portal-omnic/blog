@@ -36,4 +36,4 @@ In the competitive world of esports, every advantage counts. Data analytics and 
 
 By partnering with Omnic Data, you can take advantage of sophisticated esports data analytics, turning raw data into actionable insights and gaining a competitive edge. In a field as competitive as esports, can you afford not to?
 
-**Join us in Nashville on May 27th as [Omnic Data](https://www.omnic.ai/) partners with [Belong Gaming Arenas](https://us.belong.gg/) to unveil the cutting-edge [Omnic Forge](https://forge.omnic.ai/), an AI-powered esports coaching and data analytics platform that's set to revolutionize the gaming experience.**
+**Join us in Nashville on May 26th - 27th as [Omnic Data](https://www.omnic.ai/) partners with [Belong Gaming Arenas](https://us.belong.gg/) to unveil the cutting-edge [Omnic Forge](https://forge.omnic.ai/), an AI-powered esports coaching and data analytics platform that's set to revolutionize the gaming experience.**
