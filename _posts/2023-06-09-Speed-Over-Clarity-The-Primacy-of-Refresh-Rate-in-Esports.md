@@ -22,8 +22,6 @@ Smooth Motion Clarity: In fast-paced games, smooth motion clarity is essential t
 
 Reduced Latency: In competitive gaming, where split-second reactions can determine victory or defeat, minimizing latency is crucial. Latency refers to the delay between an action performed by a player and its reflection on the screen. A higher refresh rate significantly reduces latency, providing players with a more immediate visual feedback. This leads to a more responsive gaming experience, as the actions performed by the player are reflected on the screen almost instantly. This instantaneous feedback enhances the overall gameplay experience and allows players to feel more connected to their in-game avatars, almost as an extension of their own body and mind. (As a side note, [this feeling of bodily extension](https://pubmed.ncbi.nlm.nih.gov/22829891/) is what Virtual Reality games hope to capture). It’s no wonder that the faster you are allowed to react to something, the better of a competitive advantage you get.
 
-Did you
-
 Competitive Advantage in Target Acquisition: Studies have shown that higher refresh rates positively impact target acquisition tasks in esports. [In experiments comparing different refresh rates](https://research.nvidia.com/publication/2019-09_esports-arms-race-latency-and-refresh-rate-competitive-gaming-tasks), it was found that performance improved monotonically with refresh rate, indicating that higher refresh rates lead to better accuracy and efficiency in clicking on moving targets.
 
 **The Impact of Resolution on Competitive Gaming**
