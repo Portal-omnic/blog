@@ -8,7 +8,7 @@ author:
 
 ![VCT Champions Bundle 2023](/2023-08-04-VCT-Champions-2023-Bundles-of-Fun.png)
 
-**With Champions 2023 kicking off this Sunday, the anticipation among Valorant fans is soaring to new heights! Adding to the excitement, the exclusive Champions bundle was released today. If you're on the fence about picking it up or simply want an in-depth look at what it offers, we have you covered with a complete walkthrough!**
+**With Champions 2023 kicking off this Sunday, the anticipation among Valorant fans is soaring to new heights! Adding to the excitement, the exclusive Champions bundle is being released today. If you're on the fence about picking it up or simply want an in-depth look at what it offers, we have you covered with a complete walkthrough!**
 
 **A Flashy Set to Show off Your Skills**
 
