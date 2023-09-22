@@ -2,7 +2,7 @@
 title: "The 5 Most Impactful Changes AI Can Bring To Gaming"
 date: "2023-09-22 08:00:00 -0500"
 categories: ["Omnic.AI"]
-tags: ["Artificial Intelligence", "Gaming Industry", "Esports Coaching", "AI in Gaming", "Content Creation", "Game Development", "Esports Broadcasting", "Meta Discovery", "Gaming Customer Retention", "Gameplay Analysis"]
+tags: ["Artificial Intelligence","Gaming Industry","Esports Coaching","AI in Gaming","Content Creation","Game Development","Esports Broadcasting","Meta Discovery","Gaming Customer Retention","Gameplay Analysis"]
 author:
 ---
 
