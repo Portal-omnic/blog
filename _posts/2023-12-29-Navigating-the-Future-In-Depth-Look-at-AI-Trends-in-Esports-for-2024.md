@@ -16,7 +16,7 @@ Gone are the days of relying solely on human analysis. AI is set to offer a deep
 
 **Real-time Strategy Adaptation**
 
-AI's capacity to analyze ongoing game data and provide real-time advice will be a game-changer. Picture an AI system, similar to [AlphaStar developed](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/) by DeepMind, offering real-time tactical suggestions in games like StarCraft II. This technology could evolve to assist players in adapting their strategies instantaneously during high-stakes tournaments.
+AI's capacity to analyze ongoing game data and provide real-time advice will be a game-changer. Picture an AI system, similar to [AlphaStar](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/) developed by DeepMind, offering real-time tactical suggestions in games like StarCraft II. This technology could evolve to assist players in adapting their strategies instantaneously during high-stakes tournaments.
 
 **Revolutionizing the Viewer Experience**
 
