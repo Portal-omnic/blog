@@ -33,9 +33,13 @@ Two spots at Valorant Masters Madrid and Championship Points.
 The dissolution of the championship Evil Geniuses roster and the creation of new 'superteams' are among the top storylines this year. Significant roster changes have occurred across several teams, notably:
 
 NRG: The so-called 'superteam' of the year, with Ethan and Demon1 joining from EG.
+
 100 Thieves: Led by Boostio, EG's former in-game leader, and coached by Tony “Zikz” Gray, EG’s former assistant coach.
+
 Leviatán: A mix of players from North America, Brazil, and Latin America, including aspas from the LOUD 2022 championship team.
+
 G2: Making their debut in VCT Americas after acquiring most of The Guard roster.
+
 LOUD: Retained most of their roster from last year and is expected to be strong.
 
 The VCT Americas 2024 Kickoff is set to be a thrilling event, with a blend of veteran teams and emerging talents. The shifts in team rosters and the formation of new 'superteams' add an extra layer of excitement and unpredictability to the tournament.
