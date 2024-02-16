@@ -8,15 +8,15 @@ author:
 
 ![Credit Riot Games](/2024-02-16-VCT-Americas-Kickoff-2024-Primer.png)
 
-As the Valorant Champions Tour 2024 gears up, the VCT Americas Kickoff is drawing significant attention. With 10 returning partner teams and an ascendant from last year's Challengers, the competition is poised to be intense and gripping.
+As the [Valorant Champions Tour 2024](https://valorantesports.com/schedule) gears up, the VCT Americas Kickoff is drawing significant attention. With 10 returning partner teams and an ascendant from last year's Challengers, the competition is poised to be intense and gripping.
 
 **Group Overview**
 
 The tournament features 11 teams placed into three groups, playing in a double elimination format with best-of-three matches. The groups are:
 
-Group A: NRG, FURIA, Cloud9, MIBR
-Group B: LOUD, Sentinels, Leviatán, 100 Thieves
-Group C: Evil Geniuses, G2, KRÜ
+Group A: [NRG](https://liquipedia.net/valorant/NRG), [FURIA](https://liquipedia.net/valorant/FURIA_Esports), [Cloud9](https://liquipedia.net/valorant/Cloud9), [MIBR](https://liquipedia.net/valorant/MIBR)
+Group B: [LOUD](https://liquipedia.net/valorant/LOUD), [Sentinels](https://liquipedia.net/valorant/Sentinels), [Leviatán](https://liquipedia.net/valorant/Leviat%C3%A1n), [100 Thieves](https://liquipedia.net/valorant/100_Thieves)
+Group C: [Evil Geniuses](https://liquipedia.net/valorant/Evil_Geniuses), [G2](https://liquipedia.net/valorant/G2_Esports), [KRÜ](https://liquipedia.net/valorant/KR%C3%9C_Esports)
 
 **Key Match Schedule**
 
@@ -30,7 +30,7 @@ Two spots at Valorant Masters Madrid and Championship Points.
 
 **Teams and Storylines to Watch**
 
-The dissolution of the championship Evil Geniuses roster and the creation of new 'super teams' are among the top storylines this year. Significant roster changes have occurred across several teams, notably:
+The dissolution of the championship Evil Geniuses roster and the creation of new 'superteams' are among the top storylines this year. Significant roster changes have occurred across several teams, notably:
 
 NRG: The so-called 'superteam' of the year, with Ethan and Demon1 joining from EG.
 100 Thieves: Led by Boostio, EG's former in-game leader, and coached by Tony “Zikz” Gray, EG’s former assistant coach.
@@ -38,6 +38,6 @@ Leviatán: A mix of players from North America, Brazil, and Latin America, inclu
 G2: Making their debut in VCT Americas after acquiring most of The Guard roster.
 LOUD: Retained most of their roster from last year and is expected to be strong.
 
-The VCT Americas 2024 Kickoff is set to be a thrilling event, with a blend of veteran teams and emerging talents. The shifts in team rosters and the formation of new 'super teams' add an extra layer of excitement and unpredictability to the tournament.
+The VCT Americas 2024 Kickoff is set to be a thrilling event, with a blend of veteran teams and emerging talents. The shifts in team rosters and the formation of new 'superteams' add an extra layer of excitement and unpredictability to the tournament.
 
 [Omnic.AI](https://www.omnic.ai/) is an AI-powered performance gaming tool designed to help you game smarter. Our technology provides resources for professional esports players, content creators, production teams and every day gamers to do what they love — faster and smarter through the power of AI. If you would like to take your game to the next level with Omnic Forge click [here](https://forge.omnic.ai/).
