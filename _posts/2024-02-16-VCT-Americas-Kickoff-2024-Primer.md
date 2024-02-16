@@ -7,6 +7,7 @@ author:
 ---
 
 ![Credit Riot Games](/2024-02-16-VCT-Americas-Kickoff-2024-Primer.png)
+Credit: Riot Games
 
 As the [Valorant Champions Tour 2024](https://valorantesports.com/schedule) gears up, the VCT Americas Kickoff is drawing significant attention. With 10 returning partner teams and an ascendant from last year's Challengers, the competition is poised to be intense and gripping.
 
