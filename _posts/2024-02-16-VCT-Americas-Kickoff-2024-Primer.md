@@ -16,13 +16,17 @@ As the [Valorant Champions Tour 2024](https://valorantesports.com/schedule) gear
 The tournament features 11 teams placed into three groups, playing in a double elimination format with best-of-three matches. The groups are:
 
 Group A: [NRG](https://liquipedia.net/valorant/NRG), [FURIA](https://liquipedia.net/valorant/FURIA_Esports), [Cloud9](https://liquipedia.net/valorant/Cloud9), [MIBR](https://liquipedia.net/valorant/MIBR)
+
 Group B: [LOUD](https://liquipedia.net/valorant/LOUD), [Sentinels](https://liquipedia.net/valorant/Sentinels), [Leviatán](https://liquipedia.net/valorant/Leviat%C3%A1n), [100 Thieves](https://liquipedia.net/valorant/100_Thieves)
+
 Group C: [Evil Geniuses](https://liquipedia.net/valorant/Evil_Geniuses), [G2](https://liquipedia.net/valorant/G2_Esports), [KRÜ](https://liquipedia.net/valorant/KR%C3%9C_Esports)
 
 **Key Match Schedule**
 
 Feb 16: NRG vs. FURIA (2 p.m. PT); Cloud9 vs. MIBR (5 p.m. PT)
+
 Feb 17: LOUD vs. Sentinels (2 p.m. PT); Leviatán vs. 100 Thieves (5 p.m. PT)
+
 Feb 18: G2 vs. KRÜ (2 p.m. PT)
 
 **What is on the line for VCT Americas Kickoff?** 
