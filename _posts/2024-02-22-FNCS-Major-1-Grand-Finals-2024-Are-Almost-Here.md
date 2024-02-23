@@ -6,7 +6,7 @@ tags: ["FNCS Major 1", "Fortnite Grand Finals","Epic Fortnite Showdown","Global 
 author:
 ---
 
-![FNCS Major 1 2024](/2024-02-16-VCT-Americas-Kickoff-2024-Primer.png)
+![FNCS Major 1 2024](/2024-02-22-FNCS-Major-1-Grand-Finals-2024-Are-Almost-Here.png)
 
 Get ready, [Fortnite](https://www.fortnite.com/?lang=en-US) fam! The [FNCS Major 1 Grand Finals](https://www.fortnite.com/competitive/news/fortnite-championship-series-2024-details) are dropping in hot on February 24th and 25th, 2024. This epic showdown will witness the best duos from across the globe battle it out for glory, a massive prize pool, and a chance to secure their spot in the prestigious FNCS Global Championship. So, mark your calendars, grab your snacks, and let's dive into everything you need to know:
 
