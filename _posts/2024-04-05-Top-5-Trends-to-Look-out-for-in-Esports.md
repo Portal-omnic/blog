@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Trends to Look out for in Esports"
-date: "2024-04-205 08:00:00 -0500"
+date: "2024-04-05 08:00:00 -0500"
 categories: ["Esports"]
 tags: ["esports trends 2024","future of esports: AI, metaverse, & more","esports betting growth & responsible gambling","regional esports leagues: the next big thing?","AI commentators & personalized esports content","AI in esports: beyond training partners","esports & the metaverse: virtual venues & training grounds","localized esports content: catering to a global audience","sustainable esports: reducing the environmental impact","growth of esports betting: regulations & viewership"]
 author:
