@@ -1,5 +1,5 @@
 ---
-title: "The Tech Powering Video Game Analytics"
+title: "Behind the Scenes: The Tech Powering Video Game Analytics"
 date: "2024-04-12 08:00:00 -0500"
 categories: ["Omnic.AI"]
 tags: ["Video Game Analytics","AI in Gaming","Computer Vision Gaming","Machine Learning in Video Games","Gaming Data Analysis","Esports Analytics""AI-Powered Gaming Insights","Advanced Gaming Strategies","AI Gaming Technology","Video Game Performance Metrics"]
