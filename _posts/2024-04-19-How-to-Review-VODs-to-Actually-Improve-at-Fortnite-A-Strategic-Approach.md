@@ -8,7 +8,7 @@ author:
 
 ![Fortnite Player Reviewing their VOD](/2024-04-19-How-to-Review-VODs-to-Actually-Improve-at-Fortnite-A-Strategic-Approach.png)
 
-Hello, [Fortnite](https://www.fortnite.com/) fam! At [Omnic.ai](https://www.omnic.ai/), we're dedicated to helping you level up your gameplay through in-depth analysis and actionable insights. Today, we're tackling an often overlooked yet critical aspect of gaming: effective VOD (Video on Demand) review. Whether you're aiming to climb the competitive ladder or simply enhance your skills, understanding how to analyze your gameplay can lead to significant improvements.
+Hello, [Fortnite](https://www.fortnite.com/) fam! At [Omnic.AI](https://www.omnic.ai/), we're dedicated to helping you level up your gameplay through in-depth analysis and actionable insights. Today, we're tackling an often overlooked yet critical aspect of gaming: effective VOD (Video on Demand) review. Whether you're aiming to climb the competitive ladder or simply enhance your skills, understanding how to analyze your gameplay can lead to significant improvements.
 
 **Beyond Just Watching**
 
@@ -42,7 +42,7 @@ Mastering VOD review and making smarter in-game decisions hinge on your understa
 
 **Leveraging Insights from Your Replays**
 
-At [Omnic.ai](https://www.omnic.ai/), our tools use computer vision technology to analyze your recorded gameplay, providing detailed statistics and coaching insights. These tools are designed to help you identify the types of decisions you're making and understand their outcomes, enabling you to recognize patterns that require adjustment.
+At [Omnic.AI](https://www.omnic.ai/), our tools use computer vision technology to analyze your recorded gameplay, providing detailed statistics and coaching insights. These tools are designed to help you identify the types of decisions you're making and understand their outcomes, enabling you to recognize patterns that require adjustment.
 
 By adopting a nuanced approach to VOD reviewing and focusing on fundamental gameplay skills, you can make more informed, effective decisions that not only enhance your individual performance but also positively impact your team dynamics.
 
