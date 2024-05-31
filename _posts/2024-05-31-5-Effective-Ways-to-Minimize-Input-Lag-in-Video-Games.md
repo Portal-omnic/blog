@@ -7,7 +7,7 @@ author:
 ---
 
 ![Input Lag Rage](/2024-05-31-5-Effective-Ways-to-Minimize-Input-Lag-in-Video-Games.png)
-(Credit: Epic Games)
+
 
 Input lag can be a frustrating barrier to enjoyment and competitiveness in video games. This delay between pressing a button and seeing the action on screen can disrupt the gaming experience and affect performance, especially in fast-paced titles. Here at Omnic.ai, we understand the importance of responsive gameplay, and through our advanced data analytics and computer vision technologies, we continuously seek solutions that enhance gaming performance. Today, we're discussing the top five ways you can decrease input delay for a smoother and more responsive gaming experience.
 
