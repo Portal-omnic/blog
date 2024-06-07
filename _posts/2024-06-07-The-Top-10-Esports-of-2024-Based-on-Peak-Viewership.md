@@ -7,7 +7,7 @@ author:
 ---
 
 ![Top 10 Esports of 2024](/2024-06-07-The-Top-10-Esports-of-2024-Based-on-Peak-Viewership.png)
-credit: escharts.com
+(Credit: escharts.com)
 
 If you've been wondering what the top esports are in 2024 so far, look no further! We've pulled the data from [Esports Charts](https://escharts.com/top-games?order=peak) to unveil the games with the highest peak viewership this year, along with insights into prize pools and why they're captivating millions of fans worldwide. 
 
