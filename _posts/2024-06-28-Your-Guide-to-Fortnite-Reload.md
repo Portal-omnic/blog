@@ -9,7 +9,7 @@ author:
 ![Fortnite Reload](/2024-06-28-Your-Guide-to-Fortnite-Reload.jpg)
 (VIA: RIOT GAMES)
 
-[Fortnite](https://www.fortnite.com/) fans, get ready to jump back in time! [Epic Games has](https://store.epicgames.com/en-US/) surprised us with a brand new mode called Fortnite Reload, a love letter to the game's early days. Think classic locations, familiar weapons, and a whole new way to outlast your opponents.
+[Fortnite](https://www.fortnite.com/) fans, get ready to jump back in time! [Epic Games](https://store.epicgames.com/en-US/) has surprised us with a brand new mode called Fortnite Reload, a love letter to the game's early days. Think classic locations, familiar weapons, and a whole new way to outlast your opponents.
 
 ### What's Fortnite Reload All About?
 
