@@ -1,5 +1,5 @@
 ---
-title: "What is the Esports World Cup"
+title: "What is the Esports World Cup?"
 date: "2024-07-05 08:00:00 -0500"
 categories: ["EWC"]
 tags: ["Esports World Cup","EWC 2024","Esports Tournament","Riyadh Gaming Festival","Competitive Gaming","Esports Prize Pool","Largest Esports Event","Esports Trophy Puzzle","Global Esports Community","Saudi Arabia Esports"]
