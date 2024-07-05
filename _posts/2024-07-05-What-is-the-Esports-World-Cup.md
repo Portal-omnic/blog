@@ -68,7 +68,7 @@ You can watch the action unfold on [YouTube](https://www.youtube.com/channel/UCE
 
 **Conclusion:**
 
-The Esports World Cup is a groundbreaking event, pushing the boundaries of competitive gaming. The trophy puzzle adds an element of symbolism and emotional weight, making each victory and defeat more meaningful. This innovative concept elevates the EWC beyond a simple tournament, transforming it into a quest for glory and a tangible representation of teamwork and achievement. Visit https://www.esportsworldcup.com/en for more information on the EWC.
+The Esports World Cup is a groundbreaking event, pushing the boundaries of competitive gaming. The trophy puzzle adds an element of symbolism and emotional weight, making each victory and defeat more meaningful. This innovative concept elevates the EWC beyond a simple tournament, transforming it into a quest for glory and a tangible representation of teamwork and achievement. Visit the official [Esports World Cup](https://www.esportsworldcup.com/en) website for more information.
 
 
 [Omnic.AI](https://www.omnic.ai/) is an AI-powered performance gaming tool designed to help you game smarter. Our technology provides resources for professional esports players, content creators, production teams and every day gamers to do what they love — faster and smarter through the power of AI. If you would like to take your game to the next level with Omnic Forge click [here](https://forge.omnic.ai/).
