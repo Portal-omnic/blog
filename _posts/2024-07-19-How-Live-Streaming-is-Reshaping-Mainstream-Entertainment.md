@@ -13,7 +13,7 @@ author:
 
 In a digital age where attention spans are fleeting, live streaming platforms like Twitch are captivating audiences with their unique blend of real-time interaction and diverse content. Just last week, Ibai Llanos, a popular Spanish streamer, hosted a virtual concert on Twitch that broke the platform’s all-time viewership record with an astounding 3.85 million concurrent viewers, rivaling the audience of some cable TV events. But is this a fleeting trend, or is Twitch truly the new primetime for entertainment?
 
-## Arguments for Twitch as Mainstream Entertainment
+## Arguments for Streaming as Mainstream Entertainment
 
 1. **Massive Viewership:** Twitch boasts over 140 million monthly active users and an average of 31 million daily visitors[^9][^11]. In 2022 alone, viewers watched over 1.3 trillion minutes of content on the platform[^9].
 
@@ -25,15 +25,13 @@ In a digital age where attention spans are fleeting, live streaming platforms li
 
 5. **Accessibility and Affordability:** Twitch is free to watch (with optional subscriptions) and accessible on various devices, making it a low-barrier entry point for both viewers and creators[^11].
 
-## Arguments Against Twitch as Mainstream Entertainment
+## Arguments Against Streaming as Mainstream Entertainment
 
 1. **Niche Appeal:** Despite its growth, Twitch's audience skews younger, with 73% of users under 35. This suggests it may not yet have the broad appeal of traditional television[^9][^11].
 
 2. **Monetization Challenges:** While top streamers earn substantial income, the vast majority struggle to make a living. This raises questions about the sustainability of Twitch as a career path for creators[^10].
 
 3. **Content Moderation Issues:** Twitch has faced criticism for its handling of hate speech, harassment, and inappropriate content. This could deter some viewers and advertisers[^8].
-
-4. **Competition from Other Platforms:** YouTube Gaming, Facebook Gaming, and emerging platforms like Kick are vying for viewers and creators, creating a fragmented landscape[^10].
 
 ## Case Studies
 
