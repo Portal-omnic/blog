@@ -6,7 +6,7 @@ tags: ["Twitch","live streaming","entertainment","mainstream media","online ente
 author:
 ---
 
-![Ibai](/2024-07-19-How-Live-Streaming-is-Reshaping-Entertainment.png)
+![Ibai](/2024-07-19-How-Live-Streaming-is-Reshaping-Mainstream-Entertainment.png)
 (VIA: IBAILLANOS/INSTAGRAM)
 
 ## Introduction
