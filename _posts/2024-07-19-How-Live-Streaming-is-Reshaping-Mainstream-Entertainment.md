@@ -37,7 +37,7 @@ In a digital age where attention spans are fleeting, live streaming platforms li
 
 ## Case Studies
 
-1. **Ibai's Concert:** In a groundbreaking event, Spanish streamer Ibai Llanos hosted a virtual concert that drew over 3.85 million concurrent viewers on Twitch, showcasing the platform's potential for large-scale live events[^9].
+1. **Ibai's Concert:** In a groundbreaking event, Spanish streamer Ibai Llanos hosted a virtual concert's that drawn millions of concurrent viewers on Twitch, showcasing the platform's potential for large-scale live events[^9].
 
 2. **Just Chatting's Rise:** The "Just Chatting" category overtook gaming in 2020, showing the platform's evolution beyond its roots. This category encompasses everything from casual conversations to live music performances[^11].
 
