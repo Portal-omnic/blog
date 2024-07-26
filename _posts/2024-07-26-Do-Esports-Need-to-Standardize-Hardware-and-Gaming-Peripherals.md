@@ -40,20 +40,6 @@ The rapid pace of innovation in gaming technology is driven by competition among
 
 Many esports teams and players have sponsorship deals with hardware manufacturers. Standardizing peripherals could complicate these relationships, potentially leading to conflicts and financial losses. Sponsors play a vital role in the esports ecosystem, and their support is crucial for the growth of the industry.
 
-## Key Technologies in the Debate
-
-### [Razer Snap Tap Mode](https://www.razer.com/technology/snap-tap-mode)
-
-Razer’s Snap Tap mode allows for ultra-responsive keypresses, giving players a significant edge in fast-paced games. Standardizing such technology could ensure that all players have access to this high level of responsiveness, promoting fair competition.
-
-### [Wooting SOCD Mode](https://wooting.io/post/socd-our-implementation-of-snap-tap)
-
-Wooting’s SOCD (Simultaneous Opposite Cardinal Directions) mode addresses the issue of ghosting in gaming keyboards. This technology ensures that multiple key presses are registered accurately, which is essential for precision in competitive gaming.
-
-### [MSI SkySight](https://www.msi.com/Monitor/MPG-321URX-QD-OLED)
-
-MSI’s SkySight technology leverages AI to monitor for cheating, ensuring fair play in esports. Implementing such standardized monitoring tools can maintain the integrity of competitions, which is crucial for the credibility of the industry.
-
 ## Conclusion
 
 Standardizing hardware and gaming peripherals in esports presents both significant benefits and notable challenges. While it can ensure fair competition and consistent performance, it might also impact player preferences, stifle innovation, and complicate sponsorships. As the industry continues to evolve, finding a balance between standardization and flexibility will be key to maintaining the growth and integrity of esports.
