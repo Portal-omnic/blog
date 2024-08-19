@@ -8,7 +8,7 @@ author:
 
 ## How Colleges and Universities Are Transforming Their Campuses with State-of-the-Art Esports Facilities
 
-![Full Sail University Fortress Esports Arena](/2024-08-12-Are-Gamers-Ready-for-the-Invasion-of-In-Game-Advertisements.png)
+![Full Sail University Fortress Esports Arena](/2024-08-19-Why-Educational-Institutions-Are-Betting-Big-on-Esports-The-Future-of-Campus-Facilities.jpg)
 (VIA: Full Sail Inc.)
 
 ### Introduction
