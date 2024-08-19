@@ -17,11 +17,11 @@ The landscape of higher education is shifting, and one of the most dynamic chang
 
 ### The Rise of Esports in Education
 
-Esports has seen explosive growth, evolving from niche competitions to mainstream entertainment. According to [Statista](https://www.statista.com/outlook/amo/esports/worldwide), the global esports market is projected to show an annual growth rate (CAGR 2024-2028) of 7.10%, resulting in a projected market volume of $5.7bn by 2028, reflecting its widespread appeal and lucrative potential. This growth has sparked interest from educational institutions, which see esports as a powerful tool for engaging students, enhancing campus life, and generating new revenue streams.
+Esports has seen explosive growth, evolving from niche competitions to mainstream entertainment. According to Statista, the global esports market is projected to show an annual growth rate (CAGR 2024-2028) of 7.10%, resulting in a [projected market volume of $5.7bn by 2028](https://www.statista.com/outlook/amo/esports/worldwide), reflecting its widespread appeal and lucrative potential. This growth has sparked interest from educational institutions, which see esports as a powerful tool for engaging students, enhancing campus life, and generating new revenue streams.
 
 ### Increased Campus Investment
 
-One of the clearest indicators of the growing importance of esports in education is the significant increase in campus investments. According to a report from [Facility Executive](https://facilityexecutive.com/higher-education-facilities-investments-on-the-rise/), higher education institutions increased their spending on campus facilities by over 26% in 2023. A substantial portion of this investment has been directed toward esports infrastructure. This trend highlights the recognition of esports as a key area for student engagement and recruitment. Schools are not just building arenas; they are creating comprehensive ecosystems that support both competitive and recreational gaming.
+One of the clearest indicators of the growing importance of esports in education is the significant increase in campus investments. According to a report from Facility Executive, higher education institutions increased their spending on campus facilities by [over 26% in 2023](https://facilityexecutive.com/higher-education-facilities-investments-on-the-rise/). A substantial portion of this investment has been directed toward esports infrastructure. This trend highlights the recognition of esports as a key area for student engagement and recruitment. Schools are not just building arenas; they are creating comprehensive ecosystems that support both competitive and recreational gaming.
 
 ### Growth in Esports Programs
 
@@ -33,7 +33,7 @@ The financial potential of esports is another major driver behind the investment
 
 ### Student Demand
 
-Student interest in esports is remarkably high, further fueling institutional investments. A study by the [National Association of Collegiate Esports (NACE)](https://www.nacesports.org/) found that over 72% of students express interest in participating in or supporting esports programs. This demand is compelling schools to invest in facilities that cater to both competitive and recreational gamers. By providing state-of-the-art esports facilities, universities not only meet this demand but also enhance student satisfaction and retention.
+Student interest in esports is remarkably high, further fueling institutional investments. A study by the [National Association of Collegiate Esports (NACE)] found that [over 72% of students](https://www.nacesports.org/) express interest in participating in or supporting esports programs. This demand is compelling schools to invest in facilities that cater to both competitive and recreational gamers. By providing state-of-the-art esports facilities, universities not only meet this demand but also enhance student satisfaction and retention.
 
 ### Strategic Benefits for Educational Institutions
 
