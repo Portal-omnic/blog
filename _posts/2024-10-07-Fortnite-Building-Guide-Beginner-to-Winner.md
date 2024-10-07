@@ -18,7 +18,7 @@ Mastering building in [Fortnite](https://www.fortnite.com/?lang=en-US) is crucia
 
 While building provides protection and mobility, its true power lies in giving players the upper hand in fights. Building strategically allows you to control the battlefield, dictate engagements, and create opportunities to outmaneuver opponents. Instead of just shielding yourself from attacks, think of building as a tool to secure superior positioning, set up shots, and trap enemies.
 
-## 2. Understanding Peaker’s Advantage
+## 2. Understanding Peeker’s Advantage
 
 One of the essential concepts in Fortnite combat is the "Peeker's Advantage." This term refers to the slight delay caused by latency between players’ screens. The player who initiates an attack from a hidden position gains a split-second advantage, allowing them to fire a shot before their opponent even has the chance to react. Mastering this can make the difference in intense build fights, giving you the edge needed to secure a win.
 
