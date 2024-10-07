@@ -44,7 +44,7 @@ Fortnite’s dynamic environment means that strategies and play styles constantl
 
 ## Conclusion
 
-Building in Fortnite is about more than just creating structures; it's about outsmarting your opponent and controlling engagements. Understanding mechanics like latency (Peaker’s Advantage) and mastering techniques like pre-firing, edit peaks, and boxing up will elevate your gameplay. Remember, it's not just about building faster—it's about building smarter.
+Building in Fortnite is about more than just creating structures; it's about outsmarting your opponent and controlling engagements. Understanding mechanics like latency (Peeker’s Advantage) and mastering techniques like pre-firing, edit peaks, and boxing up will elevate your gameplay. Remember, it's not just about building faster—it's about building smarter.
 
 Stay tuned for more advanced building guides as you continue to progress from a beginner to a winner!
 
