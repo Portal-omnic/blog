@@ -8,7 +8,7 @@ author:
 
 # Master Essential Building Techniques and Strategies to Dominate Every Fight
 
-![Building in Fortnite](/2024-10-07-Fortnite-Building-Guide-Beginner-to-Winner.jpg)
+![Building in Fortnite](/2024-10-07-Fortnite-Building-Guide-Beginner-to-Winner.jpeg)
 
 ---
 
