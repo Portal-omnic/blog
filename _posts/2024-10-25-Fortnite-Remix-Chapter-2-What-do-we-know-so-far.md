@@ -25,7 +25,7 @@ Fortnite Remix Chapter 2 is a special event that revisits the early seasons of F
 
 Rumors of a Chapter 2-themed event began circulating earlier this year with leaked roadmaps hinting at a nostalgic return. Those rumors were confirmed when Epic Games sent out exciting packages to content creators, officially revealing the event's name: "Fortnite Remix Chapter 2."  
 
-These packages provided a tantalizing glimpse into what awaits.  Creators like unboxed these packages, revealing:
+These packages provided a tantalizing glimpse into what awaits.  Creators unboxed these packages revealing:
 
 * **A "Golden Ticket"**: A commemorative ticket or bookmark with a sleek, holographic design.
 * **Collectible Pins**:  A set of golden pins featuring iconic characters and items from Chapter 2, including Midas, Meowscles, Skye, and the Boogie Bomb.  These pins suggest a possible blend of different seasons and a return of fan-favorite elements.
